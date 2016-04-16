@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+}
+
+div.row{
+    width: 100% !important;
+    margin-right: 0 !important;
+}
+
+div.title_div, div.link_div{
+    margin-top: 20px;
+    height: 75px;
+    background-color: #5bc0de;
+}
+
+div.corgi{
+    height: 170px;
+    background-color:#1f7e9a;
+}
+
+div.button{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: 70px;
+    width: 70px;
+    background-color:#2aabd2;
+}
+
+button.button{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    height: 70px;
+    width: 70px;
+    background-color:#2aabd2;
+}
+
+
+div.body{
+
+    height: 170px;
+}
