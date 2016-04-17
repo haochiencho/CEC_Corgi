@@ -9,5 +9,7 @@ $( document ).ready(function() {
     $('a.left').on('click', function(e) {
         e.preventDefault();
         $('.carousel').carousel('prev');
+
     });
+    $('.carousel').carousel('pause');
 });
