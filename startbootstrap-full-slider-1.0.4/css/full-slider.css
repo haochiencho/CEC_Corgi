@@ -36,9 +36,16 @@ footer {
 }
 
 div{
-    height: 100% !important;
+    height: 100%;
+    background-size: contain;
 }
 
+
+
+.small{
+    height: 10% !important;
+    background-color: #ffe335;
+}
 .carousel-indicators li{
     display: none;
 }
